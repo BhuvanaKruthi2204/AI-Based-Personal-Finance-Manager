@@ -53,6 +53,7 @@ Additional features:
 ---
 
 ## 📂 Project Structure
+
 AI-Based-Personal-Finance-Manager/
 │
 ├── Finance/ # Main Django project (settings, urls, wsgi)
@@ -74,6 +75,7 @@ AI-Based-Personal-Finance-Manager/
 python -m venv venv
 venv\Scripts\activate   # On Windows
 source venv/bin/activate  # On Linux/Mac
+
 
 3.Install dependencies:
 pip install -r requirements.txt
