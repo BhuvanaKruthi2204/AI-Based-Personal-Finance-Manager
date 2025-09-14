@@ -64,13 +64,13 @@ AI-Based-Personal-Finance-Manager/
 ├── runServer.bat # Optional script to run server
 ├── SCREENS.docx # Screenshots / documentation
 └── README.md
----
 
 ## ▶️ How to Run the Project
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/your-username/AI-Based-Personal-Finance-Manager.git
    cd AI-Based-Personal-Finance-Manager
+```
 2.Create and activate a virtual environment:
 ```bash
    python -m venv venv
@@ -96,23 +96,24 @@ python manage.py runserver
 ```bash
 http://127.0.0.1:8000/
 ```
+
+###✨ Features
 ---
-✨ Features
 ✅ AI-powered budgeting & recommendations
 ✅ Real-time spending alerts
 ✅ Predictive analytics for financial planning
 ✅ Chat-based interaction with NLP
 ✅ Consolidated financial dashboard
 
-📌 Future Enhancements
+###📌 Future Enhancements
+---
 ->Support for multi-currency accounts
 ->Mobile application version
 ->Integration with investment APIs
 ->Advanced visualization dashboards
----
 
 👩‍💻 Authors
-
+---
 Mareddy Bhuvana Kruthi
 
 ---
