@@ -53,7 +53,7 @@ Additional features:
 ---
 
 ## 📂 Project Structure
-
+---
 AI-Based-Personal-Finance-Manager/
 │
 ├── Finance/ # Main Django project (settings, urls, wsgi)
@@ -72,23 +72,31 @@ AI-Based-Personal-Finance-Manager/
    git clone https://github.com/your-username/AI-Based-Personal-Finance-Manager.git
    cd AI-Based-Personal-Finance-Manager
 2.Create and activate a virtual environment:
-python -m venv venv
-venv\Scripts\activate   # On Windows
-source venv/bin/activate  # On Linux/Mac
-
+```bash
+   python -m venv venv
+   venv\Scripts\activate   # On Windows
+   source venv/bin/activate  # On Linux/Mac
+```
 
 3.Install dependencies:
+```bash
 pip install -r requirements.txt
+```
 
 4.Run migrations:
+```bash
 python manage.py migrate
-
+```
 5.Start the server:
+```bash
 python manage.py runserver
+```
 
 6.Open your browser at:
+```bash
 http://127.0.0.1:8000/
-
+```
+---
 ✨ Features
 ✅ AI-powered budgeting & recommendations
 ✅ Real-time spending alerts
@@ -97,10 +105,11 @@ http://127.0.0.1:8000/
 ✅ Consolidated financial dashboard
 
 📌 Future Enhancements
-Support for multi-currency accounts
-Mobile application version
-Integration with investment APIs
-Advanced visualization dashboards
+->Support for multi-currency accounts
+->Mobile application version
+->Integration with investment APIs
+->Advanced visualization dashboards
+---
 
 👩‍💻 Authors
 
