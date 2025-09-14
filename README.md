@@ -54,6 +54,7 @@ Additional features:
 
 ## 📂 Project Structure
 ---
+```bash
 AI-Based-Personal-Finance-Manager/
 │
 ├── Finance/ # Main Django project (settings, urls, wsgi)
@@ -64,6 +65,7 @@ AI-Based-Personal-Finance-Manager/
 ├── runServer.bat # Optional script to run server
 ├── SCREENS.docx # Screenshots / documentation
 └── README.md
+```
 
 ## ▶️ How to Run the Project
 1. Clone the repository:
@@ -97,20 +99,19 @@ python manage.py runserver
 http://127.0.0.1:8000/
 ```
 
-###✨ Features
----
-✅ AI-powered budgeting & recommendations
-✅ Real-time spending alerts
-✅ Predictive analytics for financial planning
-✅ Chat-based interaction with NLP
-✅ Consolidated financial dashboard
+## 🚀 Features
+✅ AI-powered budgeting & recommendations  
+✅ Real-time spending alerts  
+✅ Predictive analytics for financial planning  
+✅ Chat-based interaction with NLP  
+✅ Consolidated financial dashboard  
 
-###📌 Future Enhancements
----
-->Support for multi-currency accounts
-->Mobile application version
-->Integration with investment APIs
-->Advanced visualization dashboards
+## 📌 Future Enhancements
+➝ Support for multi-currency accounts  
+➝ Mobile application version  
+➝ Integration with investment APIs  
+➝ Advanced visualization dashboards  
+
 
 👩‍💻 Authors
 ---
