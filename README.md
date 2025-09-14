@@ -1,1 +1,1 @@
-# AI-Baseed-Personal-Finance-Manager
+# AI-Based-Personal-Finance-Manager
